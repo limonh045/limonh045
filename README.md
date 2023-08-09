@@ -7,11 +7,16 @@ Dedicated and self-driven JavaScript developer with a strong passion for continu
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/limonh045) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imonh0046) 
+# Portfolio:  
+  <a href='https://iamlimon.com'>IamLimon.com</a>
 
 # Project:
 <ul>
   <li>
     <a href='https://surebuys.netlify.app/'>E-Coomerce Web</a>
+  </li>
+    <li>
+    <a href='https://pharmacy-react.netlify.app/'>Pharmacy (React.Js)</a>
   </li>
 </ul>
 
